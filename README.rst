@@ -6,7 +6,7 @@ A script to automatically load your Kindle with new reading material,
 for use with Mac OS X and launchd.
 Once fully configured, the script:
 
-1. Checks the that the recently connected volume is the Kindle.
+1. Checks that the recently connected volume is the Kindle.
 
 2. Copies supported reading material from a specified directory to the Kindle's
    ``documents`` directory (and makes filenames unique to ensure completeness).
