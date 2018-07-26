@@ -1,3 +1,5 @@
+**Note**: I no longer use or maintain this project.
+
 =============
 Kindle Loader
 =============
